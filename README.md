@@ -5,7 +5,7 @@ In this repo you will find VB code that is used in Excel to generate a routine P
 report from a PTT Template file based on data that is refreshed in the Excel Workbook.
 Using VB or a Macro to fulfill this function saves hours of formatting time on a 19 slide
 presentation that is generated monthly. An example of the first few slides generated is
-also included as a .JPEG file.
+also included as a .JPG file.
 
 The reason this was needed is because the data behind the charts is much too large to
 allow the final file to be emailed (or even opened efficiently on your machine) if you
